@@ -3,6 +3,7 @@ euler.py
 Random utilities written during euler questions.
 '''
 
+import math
 
 def permuteInts(L):
     ''' Permute a list of digits into integers. '''
