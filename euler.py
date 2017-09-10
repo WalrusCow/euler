@@ -25,7 +25,7 @@ def digitize(n):
     The first item is the 1's column.
     '''
     l = []
-    while(n):
+    while n:
         l.append(n % 10)
         n //= 10
     return l
