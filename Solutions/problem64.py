@@ -1,7 +1,5 @@
 import math
 
-from collections import namedtuple
-
 def _find_fraction_period_helper(n, nume, sub):
     # of the form (nume / (sqrt(n) - sub))
 
